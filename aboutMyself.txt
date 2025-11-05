@@ -6,5 +6,7 @@ Section:c
 Branch:information science engineering
 Year of Admisson:2025
 College Name:Ghousia college of engineering
-
+UG Degree:information science
+PG Degree:Master of science in information science
+PhD:Data Science
 
